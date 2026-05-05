@@ -3,3 +3,5 @@ title: "dsmath"
 ---
 
 A repository of videos on different mathematical concepts.
+
+[Random Variable](https://www.youtube.com/watch?v=-7QG2itL1u4&list=PLQmJJJJVDVnOnkdXw1FiuHNtYAS6C-6d7)
