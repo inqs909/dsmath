@@ -1,8 +1,8 @@
 ---
-title: "dsmath"
+title: "CSUCI Math for Data Science Video Repository"
 ---
 
-A repository of videos on different mathematical concepts.
+## Calculus
 
 [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
@@ -11,6 +11,9 @@ A repository of videos on different mathematical concepts.
 [Calculus - Integration](https://www.youtube.com/watch?v=xaCPDMEkbig&list=PLQmJJJJVDVnO7idhlxgcR1qyN2OO8L3Mn)
 
 [Sequence and Series](https://www.youtube.com/watch?v=m5Yn4BdpOV0&list=PLQmJJJJVDVnOsIpzipO26y7tnWpplD2KN)
+
+
+## Probability Theory
 
 [Random Variable](https://www.youtube.com/watch?v=-7QG2itL1u4&list=PLQmJJJJVDVnOnkdXw1FiuHNtYAS6C-6d7)
 

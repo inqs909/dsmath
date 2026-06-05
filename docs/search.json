@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "dsmath",
+    "title": "CSUCI Math for Data Science Video Repository",
     "section": "",
-    "text": "A repository of videos on different mathematical concepts.\nEssence of Calculus\nCalculus - Derivatives\nCalculus - Integration\nSequence and Series\nRandom Variable\nExpected Values\nMoment Generating Functions"
+    "text": "Essence of Calculus\nCalculus - Derivatives\nCalculus - Integration\nSequence and Series"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html#calculus",
+    "href": "index.html#calculus",
+    "title": "CSUCI Math for Data Science Video Repository",
     "section": "",
-    "text": "About this site"
+    "text": "Essence of Calculus\nCalculus - Derivatives\nCalculus - Integration\nSequence and Series"
+  },
+  {
+    "objectID": "index.html#probability-theory",
+    "href": "index.html#probability-theory",
+    "title": "CSUCI Math for Data Science Video Repository",
+    "section": "Probability Theory",
+    "text": "Probability Theory\nRandom Variable\nExpected Values\nMoment Generating Functions"
   }
 ]
