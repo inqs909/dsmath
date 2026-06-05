@@ -4,4 +4,16 @@ title: "dsmath"
 
 A repository of videos on different mathematical concepts.
 
+[Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+[Calculus - Derivatives](https://www.youtube.com/watch?v=IvLpN1G1Ncg&list=PLQmJJJJVDVnM_gl3rBQvLUnOD8jMSUdjC)
+
+[Calculus - Integration](https://www.youtube.com/watch?v=xaCPDMEkbig&list=PLQmJJJJVDVnO7idhlxgcR1qyN2OO8L3Mn)
+
+[Sequence and Series](https://www.youtube.com/watch?v=m5Yn4BdpOV0&list=PLQmJJJJVDVnOsIpzipO26y7tnWpplD2KN)
+
 [Random Variable](https://www.youtube.com/watch?v=-7QG2itL1u4&list=PLQmJJJJVDVnOnkdXw1FiuHNtYAS6C-6d7)
+
+[Expected Values](https://www.youtube.com/watch?v=KLs_7b7SKi4&list=PLQmJJJJVDVnM6P0wpumP0QCPnBRO8fqZN)
+
+[Moment Generating Functions](https://www.youtube.com/watch?v=u0ku4bvp40I&list=PLQmJJJJVDVnPmUSHdphwWRqsTEJaPlzqE)

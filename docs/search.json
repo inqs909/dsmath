@@ -1,16 +1,16 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "dsmath",
+    "section": "",
+    "text": "A repository of videos on different mathematical concepts.\nEssence of Calculus\nCalculus - Derivatives\nCalculus - Integration\nSequence and Series\nRandom Variable\nExpected Values\nMoment Generating Functions"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "dsmath",
-    "section": "",
-    "text": "A repository of videos on different mathematical concepts.\nRandom Variable"
   }
 ]
